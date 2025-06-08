@@ -1,0 +1,27 @@
+# User-specific stuff:
+.idea/
+*.iml
+makefile
+.env
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+__pycache__/
+
+report/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+volumes/
+
+.DS_Store
+
+*.zip
+/venv/
+.python-version
